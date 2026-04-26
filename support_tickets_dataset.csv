@@ -1,0 +1,41 @@
+text,label
+Payment failed twice,Billing
+Refund not processed,Billing
+Cannot login account,Technical
+App crashing frequently,Technical
+Package damaged,Delivery
+Delivery delayed,Delivery
+Wrong item delivered,Delivery
+Unable to reset password,Technical
+Payment declined,Billing
+Refund pending,Billing
+Login error,Technical
+Shipment lost,Delivery
+Billing issue with invoice,Billing
+App not loading,Technical
+Damaged product received,Delivery
+Late delivery again,Delivery
+Transaction failed,Billing
+Cannot access account,Technical
+Broken item delivered,Delivery
+Refund not received,Billing
+Payment error,Billing
+Technical glitch in app,Technical
+Package missing,Delivery
+Delayed shipment,Delivery
+Double charged for payment,Billing
+Login not working,Technical
+Product arrived damaged,Delivery
+Refund taking too long,Billing
+Payment gateway issue,Billing
+Unable to login,Technical
+Courier lost package,Delivery
+Billing discrepancy,Billing
+App freezing,Technical
+Wrong delivery item,Delivery
+Refund still pending,Billing
+Payment declined again,Billing
+Account locked,Technical
+Damaged goods received,Delivery
+Delivery took too long,Delivery
+Billing mistake,Billing
